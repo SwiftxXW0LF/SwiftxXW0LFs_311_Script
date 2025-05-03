@@ -48,12 +48,12 @@ Config = {
     -- Webhooks
     WebhookClock = {
         Enable = true,
-        URL = "https://discord.com/api/webhooks/1367412719921270814/E6f0SE-guGNqMJ6zdvuRlCn0EBr__xsPs0AqtVzZe5XTQ5sf9ok-DEDcbhCfmnZFoftV",
+        URL = "enter_webhook_you_want_to_use_for_the_/ondutydot",
         EmbedColor = 16753920
     },
     Webhook311 = {
         Enable = true,
-        URL = "https://discord.com/api/webhooks/1367642846240440320/_s1l5kTL8K4AgBWJcNSQ_b86uQw2zTv79IcodHwMIC2OKPlPl6qv45ap0pKYTAZBObzq",
+        URL = "enter_webhook_you_want_to_use_for_the_/311",
         EmbedColor = 16753920
     },
 
