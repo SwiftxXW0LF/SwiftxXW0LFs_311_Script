@@ -1,0 +1,14 @@
+drag this folder wherever you want and ensure it under the lb-phone script if your using lb-phone
+(completely optional just uses LB Phone to make a small MDT+311 Call System that integrates into the phone as a app)
+the basic script works without the LB Phone script
+the 311 script runs off of Nights Discord Api and has an ace fallback I'm looking it also adding a badger discord api fall back if I'm able to continue this script
+all of this extra script can be removable and the system is setup incase and update from the plugins break something and has something to fall back on so the script continues to work
+you won't realize the script failed until all three fails based on how the system is setup I'm plan on changing that
+
+server_lbphone_bridge.lua is completely optional
+
+the system also uses PNotify which isn't required but is prefered so it doesn't do a fallback into the chat system and looks nicer.
+The system does webhook/embeds into discord to use as a clock in system and call tracker. 
+it's completely optional and at the moment doesn't have an option to turn off the webhooks in the configs.
+
+(also don't touch what ain't broke if you don't know what your doing it could cause you more headaches)
